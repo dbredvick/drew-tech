@@ -50,7 +50,7 @@ Once installed or cloned locally and all packages are installed you can begin de
 
 ```sh
 # Run localhost
-yarn develop
+yarn dev
 
 # Build your Gatsby site
 yarn build

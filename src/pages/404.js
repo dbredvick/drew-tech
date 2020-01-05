@@ -3,7 +3,7 @@ import React from "react";
 import Layout from "@narative/gatsby-theme-novela/src/components/Layout";
 import Section from "@narative/gatsby-theme-novela/src/components/Section";
 import SEO from "@narative/gatsby-theme-novela/src/components/SEO";
-import Heading from "@narative/gatsby-theme-novela/src/components/Headings";
+import Headings from "@narative/gatsby-theme-novela/src/components/Headings";
 
 function NotFoundPage() {
   return (
@@ -11,7 +11,7 @@ function NotFoundPage() {
       <SEO />
       <Section>
         <div style={{ marginTop: "100px" }}>
-          <Heading.h1>404: Page Not Found</Heading.h1>
+          <Headings.h1>404: Page Not Found</Headings.h1>
         </div>
       </Section>
     </Layout>

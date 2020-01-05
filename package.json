@@ -5,14 +5,13 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "serve": "gatsby serve",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@narative/gatsby-theme-novela": "^0.11.3",
-    "gatsby": "^2.18.17",
-    "gatsby-plugin-manifest": "^2.2.34",
+    "@narative/gatsby-theme-novela": "^0.*",
+    "gatsby": "^2.13.41",
+    "gatsby-plugin-manifest": "^2.2.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
