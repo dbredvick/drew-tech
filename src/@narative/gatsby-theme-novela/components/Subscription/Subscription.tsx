@@ -52,6 +52,7 @@ const Subscription: React.FC<{}> = () => {
               placeholder="your@email.com"
               name="email"
               type="email"
+              autoComplete="email"
               value={email}
               onChange={handleEmailChange}
               hasError={error}
