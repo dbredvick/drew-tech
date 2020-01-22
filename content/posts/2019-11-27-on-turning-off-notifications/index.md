@@ -37,7 +37,8 @@ Except it's not - not to most of us. A few of us live with someone like me; some
 
 ## I turned off my Gmail notifications
 
-<div style="align-self: center" id="testing">
+<div style="align-self: center; width: 100%; max-width: 500px" id="testing">
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just turned off unread badges for gmail and I’ve never felt more calm. <br/><br/>Happy Monday. <a href="https://t.co/YcSWgAPXHH">pic.twitter.com/YcSWgAPXHH</a></p>&mdash; Drew Bredvick (@DBredvick) <a href="https://twitter.com/DBredvick/status/1198958279512211456?ref_src=twsrc%5Etfw">November 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 

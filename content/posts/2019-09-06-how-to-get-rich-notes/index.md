@@ -25,7 +25,8 @@ I listened to the episode so many times (it has to be nearly 30 at this point) I
 
 ## On Wealth and Status
 
-<div style="align-self: center" id="testing">
+<div style="align-self: center; width: 100%; max-width: 500px" id="testing">
+
 <blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">You’re not going to get rich renting out your time. You must own equity - a piece of a business - to gain your financial freedom.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002103670400417792?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
 </div>
 
@@ -98,7 +99,8 @@ Steady creation is key. Put in the work. It helps you build assets and build a r
 
 ## On finding your niche
 
-<div style="align-self: center" id="testing">
+<div style="align-self: center; width: 100%; max-width: 500px" id="testing">
+
 <blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">Become the best in the world at what you do. Keep redefining what you do until this is true.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002108897551773697?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
 </div>
 
@@ -116,7 +118,8 @@ Lean towards authenticity to get away from the competition.
 
 ## Career advice
 
-<div style="align-self: center" id="testing">
+<div style="align-self: center; width: 100%; max-width: 500px" id="testing">
+
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Pick an industry where you can play long term games with long term people.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002103770518441989?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
 </div>
 
@@ -225,7 +228,8 @@ You can improve your judgment via iterations. Feedback is crucial.
 
 ## Value your time
 
-<div style="align-self: center" id="testing">
+<div style="align-self: center; width: 100%; max-width: 500px" id="testing">
+
 <blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002108599399661568?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
 </div>
 
@@ -263,7 +267,8 @@ Don&#39;t listen to success stories. Everyone is giving you their steps to succe
 
 Use advice as a way to remember things you have personally learned.
 
-<div style="align-self: center" id="testing">
+<div style="align-self: center; width: 100%; max-width: 500px" id="testing">
+
 <blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">When you&#39;re finally wealthy, you&#39;ll realize that it wasn&#39;t what you were seeking in the first place. But that&#39;s for another day.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002109558058237953?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
 </div>
 
