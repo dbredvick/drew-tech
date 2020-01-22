@@ -1,36 +1,41 @@
 [[redirects]]
     from = "https://developerspin.com/posts/2020-01-05-how-to-create-cron-job-now-zeit/"
-    to = "https://developerspin.com/how-to-create-cron-job-now-zeit/"
+    to = "https://developerspin.com/How-to-Create-a-Cron-Job-with-NextJS-and-Now/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-11-27-on-turning-off-notifications/"
-    to = "https://developerspin.com/on-turning-off-notifications/"
+    to = "https://developerspin.com/On-Turning-Off-Notifications/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-11-20-functionality-not-enabled/"
-    to = "https://developerspin.com/functionality-not-enabled/"
+    to = "https://developerspin.com/How-to-Send-Email-with-Zeit.co-Domain-through-GSuite/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-10-15-A-5-step-framework-for-picking-tech/"
-    to = "https://developerspin.com/A-5-step-framework-for-picking-tech/"
+    to = "https://developerspin.com/Starting-a-Startup:-A-5-Step-Framework-for-Picking-Tech/"
+    force = true
+
+[[redirects]]
+    from = "https://developerspin.com/posts/2019-09-15-moving-domains-on-netlify/"
+    to = "https://developerspin.com/How-to-Change-Domains-on-Netlify/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-09-06-how-to-get-rich-notes/"
-    to = "https://developerspin.com/how-to-get-rich-notes/"
+    to = "https://developerspin.com/How-to-Get-Rich-(Naval)-Notes/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-10-01-podcast-day/"
-    to = "https://developerspin.com/podcast-day/"
+    to = "https://developerspin.com/My-September-Podcast-Stack/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-09-17-building-great-software-with-google-analytics/"
-    to = "https://developerspin.com/building-great-software-with-google-analytics/"
+    to = "https://developerspin.com/A-Developer's-Guide-Building-Great-Software-Incrementally-with-Analytics/"
     force = true
 
 [[redirects]]
@@ -40,27 +45,27 @@
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-07-16-why-I-didnt-tell-you/"
-    to = "https://developerspin.com/why-I-didnt-tell-you/"
+    to = "https://developerspin.com/Why-I-Didn't-Tell-You-That-I-Have-Cancer/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-07-27-should-i-buy-this-house/"
-    to = "https://developerspin.com/should-i-buy-this-house/"
+    to = "https://developerspin.com/Should-I-Buy-This-House/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-07-05-sideproject-tech/"
-    to = "https://developerspin.com/sideproject-tech/"
+    to = "https://developerspin.com/Tech-decisions-and-developer-guilt/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-05-29-I-moved-to-netlify/"
-    to = "https://developerspin.com/I-moved-to-netlify/"
+    to = "https://developerspin.com/I-Moved-to-Netlify/"
     force = true
 
 [[redirects]]
     from = "https://developerspin.com/posts/2019-01-03-sharing-podcasts/"
-    to = "https://developerspin.com/sharing-podcasts/"
+    to = "https://developerspin.com/Sharing-is-Caring/"
     force = true
 
 [[redirects]]
