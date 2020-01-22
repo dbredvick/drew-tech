@@ -76,7 +76,23 @@ That's why I started building [ShouldIBuyThis.House](https://ShouldIBuyThis.Hous
 Most of my content on this site has promoted building small, functional products and iterating quickly.
 
 <div style="align-self: center" id="testing">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New rule: <br><br>Build a basic version in 1-2 weekends. Put it out there.<br><br>Applies to features, products, blog posts — anything really. <br><br>Inspired by <a href="https://twitter.com/shl?ref_src=twsrc%5Etfw">@shl</a> and <a href="https://twitter.com/levelsio?ref_src=twsrc%5Etfw">@levelsio</a>. <a href="https://twitter.com/hashtag/sideproject?src=hash&amp;ref_src=twsrc%5Etfw">#sideproject</a> <a href="https://twitter.com/hashtag/IndieHackers?src=hash&amp;ref_src=twsrc%5Etfw">#IndieHackers</a></p>&mdash; Drew Bredvick (@DBredvick) <a href="https://twitter.com/DBredvick/status/1152682809460494337?ref_src=twsrc%5Etfw">July 20, 2019</a></blockquote>
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">
+    New rule: <br />
+    <br />
+    Build a basic version in 1-2 weekends. Put it out there.
+    <br />
+    <br />
+    Applies to features, products, blog posts — anything really. <br />
+    <br />
+    Inspired by <a href="https://twitter.com/shl?ref_src=twsrc%5Etfw">@shl</a> and{' '}
+    <a href="https://twitter.com/levelsio?ref_src=twsrc%5Etfw">@levelsio</a>.{' '}
+    <a href="https://twitter.com/hashtag/sideproject?src=hash&amp;ref_src=twsrc%5Etfw">#sideproject</a>{' '}
+    <a href="https://twitter.com/hashtag/IndieHackers?src=hash&amp;ref_src=twsrc%5Etfw">#IndieHackers</a>
+  </p>
+  &mdash; Drew Bredvick (@DBredvick){' '}
+  <a href="https://twitter.com/DBredvick/status/1152682809460494337?ref_src=twsrc%5Etfw">July 20, 2019</a>
+</blockquote>;
 </div>
 
 I'm setting a two week deadline from today to finish this project.
