@@ -1,35 +1,31 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Developer Spin`,
+    name: `Drew Bredvick`,
+    siteUrl: `https://developerspin.com`,
+    description: `Improving your productivity and developer velocity at work and on side projects`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Improving your productivity and developer velocity at work and on side projects.`,
+      maxWidth: 652
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/dbredvick`
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/dbredvick`
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/drewbredvick`
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
-    ],
+        url: `https://www.linkedin.com/in/drew-bredvick/`
+      }
+    ]
   },
   plugins: [
     {
@@ -38,24 +34,34 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
+        mailchimp: true,
         authorsPage: true,
         sources: {
-          local: true,
+          local: true
           // contentful: true,
-        },
-      },
+        }
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `The Developer Spin`,
+        short_name: `Developer Spin`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
-      },
+        icon: `src/assets/favicon.png`
+      }
     },
-  ],
+    "gatsby-plugin-twitter",
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: "gatsby-plugin-mailchimp",
+      options: {
+        endpoint:
+          "https://gmail.us4.list-manage.com/subscribe/post?u=c64b14d8990dc078f8e67b3fd&amp;id=baa51396b9" // add your MC list endpoint here; see instructions below
+      }
+    }
+  ]
 };
