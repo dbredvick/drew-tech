@@ -92,7 +92,7 @@ Most of my content on this site has promoted building small, functional products
   </p>
   &mdash; Drew Bredvick (@DBredvick){' '}
   <a href="https://twitter.com/DBredvick/status/1152682809460494337?ref_src=twsrc%5Etfw">July 20, 2019</a>
-</blockquote>;
+</blockquote>
 </div>
 
 I'm setting a two week deadline from today to finish this project.
