@@ -4,6 +4,10 @@
 
 <br/>
 
+### Make your own and deploy it
+
+[![netlify deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dbredvick/new-developer-spin)
+
 # Gatsby Starter Novela
 
 With minimal styling and maximum features — including multiple homepage layouts, built-in social sharing and dark mode — Novela makes it easy to start publishing beautiful articles and stories with Gatsby.

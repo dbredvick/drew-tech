@@ -75,7 +75,7 @@ That's why I started building [ShouldIBuyThis.House](https://ShouldIBuyThis.Hous
 
 Most of my content on this site has promoted building small, functional products and iterating quickly.
 
-<div style="align-self: center; width: 100%; max-width: 500px" id="testing">>
+<div style="align-self: center; width: 100%; max-width: 500px" id="testing">
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">
     New rule: <br />

@@ -1,0 +1,156 @@
+---
+title: "Building your own blog in 2020"
+author: Drew Bredvick
+excerpt: >-
+  So you want to host your own blog? Awesome. Here are five tips you should follow.
+date: "2020-01-22"
+hero: ./images/blogging-color.png
+tags: ["side-projects", "software-exploration"]
+---
+
+## Why I'm blogging
+
+I'm blogging to try to help improve my writing, increase the clarity of my thoughts, and show what I'm working on.
+
+With each blog post, I feel like a slightly better communicator and better teacher.
+
+The compounding effect of continuously improving is staggering.
+
+[![tiny gains](./images/tiny-gains-graph.jpg)](https://jamesclear.com/continuous-improvement)
+
+The trick to seeing these gains is consistency and playing for the long term.
+
+## Failed attempts
+
+There was a time when it seemed everyone had a blog.
+Tim Ferriss's [The 4-Hour Workweek](https://fourhourworkweek.com/) book spurred me into action
+building lifestyle businesses on the internet with hopes of joining the New Rich.
+
+This was the first time I started blogging, but it would not be the last.
+
+I've started a `Blogger` blog (this was _before_ Google bought them). Remember `.blogspot.com` domains?
+
+I built a couple different WordPress blogs, both free and self hosted.
+
+I've started company engineering blogs, internal and external.
+
+I tried building my blog from scratch.
+
+> Medium, Confluence, Twitter, LinkedIn, Blogger, Dev.to, WordPress, self-hosted, doesn't matter; I've tried and failed on all of those different platforms.
+
+The platform doesn't matter specifically. What matters is your ability to be consistent.
+
+The trick is getting posts out there, improving over time, and staying in the game.
+
+Using my experience and following principles from James Clear, Tim Ferriss, and more, I've come up with a few rules for starting a blog as a developer in 2020.
+
+## Stick with what you know
+
+We need blogging to be one of those habits we _actually_ stick with. In order to do that, we need to make it
+as simple as possible.
+
+To remove friction in the process, we should stick with:
+
+- a platform we know
+- a familiar tech stack
+- content you're _somewhat_ familiar with
+
+#### Example
+
+I'm comfortable in React, JavaScript, and markdown. I've built a GatsbyJS site and am familiar with GraphQL.
+I'm not great at styling, so this blog is a Gatsby theme called [Novela](https://novela.narative.co/).
+
+#### Counterpoint
+
+Want to use your blog as a project to learn some new tech? Want to explore new topics you know nearly nothing about?
+**That is okay**. Just know that it's likely blogging won't be a sustainable habit for you.
+
+## Easy deploys
+
+This one sounds really simple, but it can make a big difference on if you are or aren't going to post regularly.
+
+Deploying needs to be simple. If it's not, you won't post. Dragging files to an S3 bucket does not count as easy.
+
+You might think I am lazy because of this. Trust your instincts.
+
+#### Example
+
+I can deploy all of my side projects via pushing or merging changes to the `master` branch in GitHub (I commit on `master` frequently 🤠). Each time I push, a new version gets deployed.
+
+[Zeit Now](https://zeit.co/home) and [Netlify](https://www.netlify.com/) take a lot of the hastle that is normally devops.
+
+I use Zeit Now for all [NextJS](https://nextjs.org/) and Netlify for all my [GatsbyJS](https://www.gatsbyjs.org/).
+
+#### Counterpoint
+
+There are no excuses for bad CI/CD 😉
+
+## Don't build from scratch
+
+Starting from scratch can seem tempting; don't.
+
+Lean on existing frameworks like NextJS and GatsbyJS that get you started with built in routing, performance optimization, and a plugin ecosystem.
+
+These things will help you spend more time writing, and less time tweaking code. I'm all for tweaking code, but you're here to create a successful blog,
+not to fiddle with code.
+
+#### Example
+
+This blog relies heavily on:
+
+- GatsbyJS
+- Gatsby Theme [Novela](https://novela.narative.co/)
+- gatsby-plugin-google-tagmanager
+- gatsby-plugin-twitter
+- gatsby-plugin-sitemap
+- gatsby-plugin-mailchimp
+- gatsby-plugin-feed
+
+That's a lot of coding hours saved that I can use directly on writing.
+
+#### Counterpoint
+
+Like I've said before, feel free to use your blog as a playground for learning. If that is your goal, **that is okay**.
+The odds of you creating a blogging habit are low, but that is fine.
+
+## Collect blog topic ideas
+
+In order to write a blog post, you need topic ideas. Instead of sitting down and thinking "what do I want to write about?",
+pull up your list of ideas and write about what you're most inspired by at that moment.
+
+Here's how I've built my list:
+
+- Googled something and couldn't find the answer
+- Found an answer, but it was buried _deeeeep_ in a forum
+- Notes from a good book or podcast
+- Predictions
+- Learning in public and documenting
+
+This list is different for everyone and depends on what type of content you want to share.
+
+## Less is more
+
+I had a different UI on my previous blog. It had a lot going on. I removed all the distractions and "features" as a test.
+People actually spent more time on my site the fewer "features" there were.
+
+By not creating extra features on your blog, you free up yourself to spend more time writing content.
+
+And you know what they say:
+
+> Content is king.
+
+## Getting started with this blog template
+
+1. Click the `Deploy on Netlify` button below
+2. Connect your GitHub account
+3. Deploy
+4. Celebrate 🎉
+
+<div style="max-width: 240px; align-self: center;">
+  <a
+    href="https://app.netlify.com/start/deploy?repository=https://github.com/narative/gatsby-starter-novela"
+    target="_blank"
+  >
+    <img src="https://www.netlify.com/img/deploy/button.svg" />
+  </a>
+</div>
