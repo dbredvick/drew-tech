@@ -12,27 +12,6 @@ const Subscription: React.FC<{}> = () => {
   const [error, setError] = useState("");
   const [subscribed, setSubscribed] = useState(false);
 
-  function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
-    event.preventDefault();
-
-    addToMailchimp(email)
-      .then(data => {
-        if (data.result === "error") {
-          throw data;
-        }
-
-        setSubscribed(true);
-        setEmail("");
-
-        setTimeout(() => {
-          setSubscribed(false);
-        }, 6000);
-      })
-      .catch(error => {
-        setError(error.msg);
-      });
-  }
-
   function handleEmailChange(event: React.ChangeEvent<HTMLInputElement>) {
     setEmail(event.currentTarget.value);
     setError("");
@@ -47,7 +26,8 @@ const Subscription: React.FC<{}> = () => {
             Improve your productivity and developer velocity both at work and on
             side projects.
           </Text>
-          <Form onSubmit={handleSubmit} hasError={error}>
+          <Form name="signup" netlify action="/">
+            <input type="hidden" name="form-name" value="subscribeForm" />
             <Input
               placeholder="your@email.com"
               name="email"
