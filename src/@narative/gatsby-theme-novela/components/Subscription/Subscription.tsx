@@ -47,7 +47,7 @@ const Subscription: React.FC<{}> = () => {
             Improve your productivity and developer velocity both at work and on
             side projects.
           </Text>
-          <Form onSubmit={handleSubmit} hasError={error}>
+          <Form onSubmit={handleSubmit} hasError={error} id="subscribe-form">
             <Input
               placeholder="your@email.com"
               name="email"
