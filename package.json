@@ -9,7 +9,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@analytics/google-tag-manager": "^0.2.1",
     "@narative/gatsby-theme-novela": "^0.*",
+    "analytics": "^0.3.0",
     "gatsby": "^2.13.41",
     "gatsby-plugin-feed": "^2.3.26",
     "gatsby-plugin-google-tagmanager": "^2.1.24",
