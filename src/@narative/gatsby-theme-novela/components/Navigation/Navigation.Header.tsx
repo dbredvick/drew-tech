@@ -32,9 +32,10 @@ const DarkModeToggle: React.FC<{}> = () => {
 
   function toggleColorMode(event) {
     event.preventDefault();
-    console.log("darkModeToggle");
     analytics.track("darkModeToggle", {
-      changedTo: isDark ? `light` : `dark`
+      category: "preferences",
+      action: "click",
+      label: isDark ? `light` : `dark`
     });
     setColorMode(isDark ? `light` : `dark`);
   }
