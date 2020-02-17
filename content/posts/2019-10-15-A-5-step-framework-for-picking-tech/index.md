@@ -1,8 +1,8 @@
 ---
-title: "Starting a Startup: A 5-Step Framework for Picking Tech"
+title: "How I pick my tech stack for side projects"
 author: Drew Bredvick
 excerpt: >-
-  Five quick steps you should take before making tech decisions for your startup.
+  Let's start a side project together. TypeScript? GraphQL? No code? Time to decide.
 date: "2019-10-15"
 thumb_img_path: v1579111010/blog/programmer_pihrly
 hero: ./images/programmer.png
@@ -13,7 +13,7 @@ tags: ["side-projects", "software-exploration"]
 
 # Thought Experiment
 
-We are going to start a new business together, and we need to pick our tech stack. We need to choose something that will support our company for the time in which it is operating. Our goal is to build a successful product, gain users, and become profitable.
+We are going to start a business together, and we need to pick our tech stack. We need to choose something that will support our company for the time in which it is operating. Our goal is to build a successful product, gain users, and become profitable.
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-title: How to Get Rich (Naval) Notes
+title: "Notes on Naval's Money"
 author: Drew Bredvick
 excerpt: >-
   I listened to Naval Ravikant's Twitter thread turned podcast about the concept of wealth creation nearly 30 times. Here are the takeaways.
@@ -271,9 +271,3 @@ Use advice as a way to remember things you have personally learned.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">When you&#39;re finally wealthy, you&#39;ll realize that it wasn&#39;t what you were seeking in the first place. But that&#39;s for another day.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002109558058237953?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
 </div>
-
----
-
-## Thanks for reading
-
-Let me know what you thought on Twitter! Be sure to sign up for my newsletter below if you found this post interesting.

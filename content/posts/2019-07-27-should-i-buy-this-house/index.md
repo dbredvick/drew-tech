@@ -29,7 +29,7 @@ _Disclaimer: I know housing is waaaay less volotile than cryptocurrency, this is
 
 #### The money
 
-I looked around at a few differrent calculators trying to figure out if it was a good financial decision. There's lots of things you have to take into account.
+I looked around at a few different calculators trying to figure out if it was a good financial decision. There's lots of things you have to take into account.
 
 - Interest rate
 - Down payment amount
@@ -97,7 +97,7 @@ Most of my content on this site has promoted building small, functional products
 
 I'm setting a two week deadline from today to finish this project.
 
-ShouldIBuyThis.House will ask you a some of these questions. Answer each question with your best guess. Then, it will provide you a reccomendation on whether you should buy or not. Easily export your results and share them with your partner, financial adviser, or realtor.
+ShouldIBuyThis.House will ask you a some of these questions. Answer each question with your best guess. Then, it will provide you a recommendation on whether you should buy or not. Easily export your results and share them with your partner, financial adviser, or realtor.
 
 ### What's next?
 

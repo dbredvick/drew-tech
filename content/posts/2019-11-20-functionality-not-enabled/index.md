@@ -9,6 +9,7 @@ hero: ./images/Email.png
 template: post
 twitter_image: ./images/Email.png
 tags: ["side-projects", "software-exploration"]
+secret: true
 ---
 
 # Sending email with Zeit.co Domains

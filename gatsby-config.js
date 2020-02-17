@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Developer Spin`,
+    title: `Developer Spin by Drew Bredvick`,
     name: `Drew Bredvick`,
     siteUrl: `https://developerspin.com`,
-    description: `Improving your productivity and developer velocity at work and on side projects`,
+    description: `Learnings from a developer who's trying to get better every day.`,
     hero: {
-      heading: `Improving your productivity and developer velocity at work and on side projects.`,
+      heading: `Learnings from a developer who's trying to get better every day.`,
       maxWidth: 652
     },
     social: [
@@ -71,6 +71,7 @@ module.exports = {
     },
     "gatsby-plugin-twitter",
     `gatsby-plugin-sitemap`,
+    "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-mailchimp",
       options: {

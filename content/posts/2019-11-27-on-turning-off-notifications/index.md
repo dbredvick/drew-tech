@@ -1,5 +1,5 @@
 ---
-title: "On Turning Off Notifications"
+title: "I turned off my notifications"
 author: Drew Bredvick
 excerpt: >-
   Creating time to think is important, but the world (and your cellphone) tries to steal it.

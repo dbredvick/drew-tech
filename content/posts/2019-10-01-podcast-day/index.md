@@ -9,6 +9,7 @@ hero: ./images/september-podcasts.png
 template: post
 twitter_image: ./images/september-podcasts.png
 tags: ["books-and-podcasts"]
+secret: true
 ---
 
 First things first, here's the link to the [Spotify playlist](https://open.spotify.com/playlist/1iIresDM5G2Hm5MGQR5njW?si=BFjPCTvIRuSgy6s6bMFU_A).

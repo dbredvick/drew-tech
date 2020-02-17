@@ -77,3 +77,28 @@
     from = "https://developerspin.com/contact/"
     to = "https://developerspin.com/authors/Drew-Bredvick/"
     force = true
+
+[[redirects]]
+    from = "https://developerspin.com/How-to-Create-a-Cron-Job-with-NextJS-and-Now"
+    to = "https://developerspin.com/One-percent-better-every-day-with-cron-jobs"
+    force = true
+
+[[redirects]]
+    from = "https://developerspin.com/Building-your-own-blog-in-2020"
+    to = "https://developerspin.com/My-principles-for-blogging"
+    force = true
+
+[[redirects]]
+    from = "https://developerspin.com/How-to-Get-Rich-(Naval)-Notes"
+    to = "https://developerspin.com/Notes-on-Naval's-Money"
+    force = true
+
+[[redirects]]
+    from = "https://developerspin.com/Starting-a-Startup:-A-5-Step-Framework-for-Picking-Tech"
+    to = "https://developerspin.com/How-I-pick-my-tech-stack-for-side-projects"
+    force = true
+
+[[redirects]]
+    from = "https://developerspin.com/On-Turning-Off-Notifications"
+    to = "https://developerspin.com/On-Turning-Off-Notifications"
+    force = true

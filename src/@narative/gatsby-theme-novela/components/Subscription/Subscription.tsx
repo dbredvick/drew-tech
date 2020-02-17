@@ -42,10 +42,10 @@ const Subscription: React.FC<{}> = () => {
     <Section narrow>
       <SubscriptionContainer>
         <Content>
-          <Heading>Get one productivity tip a week.</Heading>
+          <Heading>Get my newsletter</Heading>
           <Text>
-            Improve your productivity and developer velocity both at work and on
-            side projects.
+            I'll send my latest post right before I publish it here. Unsubscribe
+            at any time.
           </Text>
           <Form onSubmit={handleSubmit} hasError={error} id="subscribe-form">
             <Input

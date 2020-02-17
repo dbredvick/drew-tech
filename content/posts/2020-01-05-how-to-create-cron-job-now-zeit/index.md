@@ -1,8 +1,8 @@
 ---
-title: "How to Create a Cron Job with NextJS and Now"
+title: "One percent better every day with cron jobs"
 author: Drew Bredvick
 excerpt: >-
-  A fast five step guide for adding cron jobs to your serverless Zeit application.
+  I want to remind myself of my New Year's resolution every day via text. Let's do it with cron jobs, Zeit, and Twilio.
 date: "2020-01-05"
 thumb_img_path: v1579111016/blog/cron-job-text_jpqipf
 hero: ./images/cron-job-text.jpg
