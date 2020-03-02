@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Developer Spin by Drew Bredvick`,
+    title: `drew.tech`,
     name: `Drew Bredvick`,
-    siteUrl: `https://developerspin.com`,
+    siteUrl: `https://drew.tech`,
     description: `Learnings from a developer who's trying to get better every day.`,
     hero: {
       heading: `Learnings from a developer who's trying to get better every day.`,
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `The Developer Spin`,
-        short_name: `Developer Spin`,
+        name: `drew.tech`,
+        short_name: `drew.tech`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,

@@ -102,3 +102,8 @@
     from = "https://developerspin.com/On-Turning-Off-Notifications"
     to = "https://developerspin.com/On-Turning-Off-Notifications"
     force = true
+
+[[redirects]]
+    from = "https://developerspin.com/*"
+    to = "https://drew.tech/:splat"
+    force = true

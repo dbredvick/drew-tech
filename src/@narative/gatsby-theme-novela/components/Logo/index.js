@@ -27,7 +27,7 @@ export default function Logo() {
           fill="#ffffff"
         ></path>
       </svg>
-      <Heading>Developer Spin</Heading>
+      <Heading>drew.tech</Heading>
     </>
   );
 }
