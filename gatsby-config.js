@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://drew.tech`,
     description: `Learnings from a developer who's trying to get better every day.`,
     hero: {
-      heading: `Learnings from a developer who's trying to get better every day.`,
+      heading: `Hi, I'm Drew. <br/> <br/> Let's build something together.`,
       maxWidth: 652
     },
     social: [
