@@ -1,5 +1,0 @@
-[[redirects]]
-    from = "https://developerspin.com/*"
-    to = "https://drew.tech/:splat"
-    force = true
-    status = 301
