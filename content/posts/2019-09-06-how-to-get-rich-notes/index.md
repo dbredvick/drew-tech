@@ -9,6 +9,7 @@ hero: ./images/building-wealth-podcast-image.png
 template: post
 twitter_image: ./images/building-wealth-podcast-image.png
 tags: ["books-and-podcasts"]
+secret: true
 ---
 
 ## Who is Naval?
