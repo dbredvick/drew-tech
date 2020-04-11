@@ -2,7 +2,7 @@
 title: "How to Send Email with Zeit.co Domain through GSuite"
 author: Drew Bredvick
 excerpt: >-
-  Sending emails is an important part of running any busines - setup your Zeit domain with GSuite (in Gmail).
+  Sending emails is an important part of running any business - setup your Zeit domain with GSuite (in Gmail).
 date: "2019-11-20"
 thumb_img_path: v1579111017/blog/Email_hbc4n0
 hero: ./images/Email.png
