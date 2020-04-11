@@ -9,9 +9,8 @@ hero: ./images/netlify.png
 template: post
 twitter_image: ./images/netlify-twitter.png
 tags: ["side-projects", "software-exploration"]
----
-
-## The hype is real
+secret: true
+---## The hype is real
 
 I read all over Twitter that I should switch to Netlify for my JAMstack blog website. People said it was easy to develop, that there were great features for building complex web apps, and that it was affordable. All of this sounded awesome, but I had my doubts. I've heard about all of the sturggles people have had debugging magic serverless functions like [Netlify offers](https://www.netlify.com/docs/functions/).
 
