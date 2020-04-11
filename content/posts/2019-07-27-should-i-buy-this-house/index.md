@@ -10,7 +10,8 @@ template: post
 twitter_image: ./images/home-twitter.jpg
 tags: ["side-projects", "software-exploration"]
 secret: true
----## Buying a home is a _huge_ decision.
+---
+## Buying a home is a _huge_ decision.
 
 I've been saving up for one, just like everyone else is in Austin. The market is growing like crazy, and everyone wants to jump onboard.
 
