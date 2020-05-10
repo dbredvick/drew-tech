@@ -6,26 +6,26 @@ module.exports = {
     description: `Learnings from a developer who's trying to get better every day.`,
     hero: {
       heading: `Hi, I'm Drew. <br/> <br/> Let's build something together.`,
-      maxWidth: 652
+      maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/dbredvick`
+        url: `https://twitter.com/dbredvick`,
       },
       {
         name: `github`,
-        url: `https://github.com/dbredvick`
+        url: `https://github.com/dbredvick`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/drewbredvick`
+        url: `https://instagram.com/drewbredvick`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/in/drew-bredvick/`
-      }
-    ]
+        url: `https://www.linkedin.com/in/drew-bredvick/`,
+      },
+    ],
   },
   plugins: [
     {
@@ -34,13 +34,24 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        mailchimp: true,
+        mailchimp: false,
         authorsPage: true,
         sources: {
-          local: true
+          local: true,
           // contentful: true,
-        }
-      }
+        },
+      },
+    },
+    {
+      resolve: "gatsby-plugin-fathom",
+      options: {
+        // Fathom server URL. Defaults to `cdn.usefathom.com`
+        // trackingUrl: 'your-fathom-instance.com',
+        // Unique site id
+        siteId: "BMQLUCRR",
+        // Domain whitelist
+        whitelistHostnames: ["drewb.tech"],
+      },
     },
     {
       resolve: "gatsby-plugin-google-tagmanager",
@@ -54,8 +65,8 @@ module.exports = {
         // datalayer to be set before GTM is loaded
         // should be an object or a function that is executed in the browser
         // Defaults to null
-        defaultDataLayer: { platform: "gatsby" }
-      }
+        defaultDataLayer: { platform: "gatsby" },
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -66,8 +77,8 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`
-      }
+        icon: `src/assets/favicon.png`,
+      },
     },
     "gatsby-plugin-twitter",
     `gatsby-plugin-sitemap`,
@@ -76,8 +87,8 @@ module.exports = {
       resolve: "gatsby-plugin-mailchimp",
       options: {
         endpoint:
-          "https://gmail.us4.list-manage.com/subscribe/post?u=c64b14d8990dc078f8e67b3fd&amp;id=baa51396b9" // add your MC list endpoint here; see instructions below
-      }
-    }
-  ]
+          "https://gmail.us4.list-manage.com/subscribe/post?u=c64b14d8990dc078f8e67b3fd&amp;id=baa51396b9", // add your MC list endpoint here; see instructions below
+      },
+    },
+  ],
 };
