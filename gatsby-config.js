@@ -49,8 +49,6 @@ module.exports = {
         // trackingUrl: 'your-fathom-instance.com',
         // Unique site id
         siteId: "BMQLUCRR",
-        // Domain whitelist
-        whitelistHostnames: ["drewb.tech"],
       },
     },
     {
