@@ -46,7 +46,7 @@ module.exports = {
       resolve: "gatsby-plugin-fathom",
       options: {
         // Fathom server URL. Defaults to `cdn.usefathom.com`
-        // trackingUrl: 'your-fathom-instance.com',
+        trackingUrl: "possum.drew.tech",
         // Unique site id
         siteId: "BMQLUCRR",
       },
