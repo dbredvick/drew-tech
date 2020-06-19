@@ -34,6 +34,7 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
+        rootPath: "/",
         mailchimp: false,
         authorsPage: true,
         sources: {
