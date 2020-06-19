@@ -2,8 +2,3 @@
   from = "https://developerspin.com/*"
   to = "https://drew.tech/:splat"
   force = true
-
-[[redirects]]
-  from = "https://drew.tech/How-to-build-side-projects-while-employed-full-time"
-  to = "https://drew.tech/Divjoy-How-to-start-a-side-project-in-less-than-2-hrs"
-  force = true
