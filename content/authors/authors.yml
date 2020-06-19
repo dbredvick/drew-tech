@@ -5,8 +5,7 @@
     I'm a full-stack IndieHacker launching products with NextJS.
   avatar: ./avatars/drew.jpg
   social:
-    - url: https://github.com/dbredvick
     - url: https://twitter.com/dbredvick
-    - url: https://linkedin.com/in/drew-bredvick
+    - url: mailto:drewb@hey.com
 
   featured: true
