@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@analytics/google-tag-manager": "^0.2.1",
-    "@narative/gatsby-theme-novela": "^0.*",
+    "@narative/gatsby-theme-novela": "^0.16.3",
     "analytics": "^0.3.0",
     "gatsby": "^2.13.41",
     "gatsby-plugin-fathom": "^1.2.0",
