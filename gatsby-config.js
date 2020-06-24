@@ -44,15 +44,6 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-fathom",
-      options: {
-        // Fathom server URL. Defaults to `cdn.usefathom.com`
-        trackingUrl: "possum.drew.tech",
-        // Unique site id
-        siteId: "BMQLUCRR",
-      },
-    },
-    {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
         id: "GTM-5RHXDKV",

@@ -13,7 +13,6 @@
     "@narative/gatsby-theme-novela": "^0.16.1",
     "analytics": "^0.3.5",
     "gatsby": "^2.23.6",
-    "gatsby-plugin-fathom": "^1.3.0",
     "gatsby-plugin-feed": "^2.5.5",
     "gatsby-plugin-google-tagmanager": "^2.3.5",
     "gatsby-plugin-mailchimp": "^5.2.2",
