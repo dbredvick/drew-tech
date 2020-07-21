@@ -19,7 +19,7 @@ Lot's of apps use cron jobs. In the past, I've setup [cron jobs on linux](https:
 
 #### Want a text reminder of your New Year's goals but don't want to run the code yourself?
 
-I'll setup daily text reminders, pay the Twilio fees, and pay hosting costs for the first 10 people who retweet this tweet and DM me 🙂
+I'll set up daily text reminders, pay the Twilio fees, and pay hosting costs for the first 10 people who DM me 🙂
 
 <div style="align-self: center; width: 100%; max-width: 500px" id="testing">
 
@@ -80,8 +80,8 @@ This is adding some security, but is not the best option. If you need to _really
 
 ## And that's it!
 
-Congrats, you setup cron jobs inside of a serverless NextJS app hosted with Zeit. Please let me know if you ran into any problems!
+Congrats, you setup cron jobs inside of a serverless NextJS app hosted with Zeit. Please let me know if you ran into any problems.
 
 <a href="https://twitter.com/DBredvick?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @DBredvick</a>
 
-Good luck on those resolutions  💪💯
+Good luck on those resolutions!

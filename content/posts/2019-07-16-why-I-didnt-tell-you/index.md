@@ -1,5 +1,5 @@
 ---
-title: Why I Didn’t Tell You That I Have Cancer
+title: Why I Didn’t Tell You
 author: Drew Bredvick
 excerpt: >-
   A quick note on why I've kept my cancer a secret, and why I'm telling you now.
@@ -37,7 +37,7 @@ I cry like a baby when I talk to my mom about this stuff. Life is hard sometimes
 I guess I already talked about this a bit, but I really want to drive home the fact that I don’t feel like I deserve any preferential treatment.
 
 **Because I thought I could beat it.**
-I thought I’d look back at this timeframe five years from now and go, “man, I beat this thing”. In that case, was it worth creating a lot of fear and drama for those I care about?
+I thought I’d look back at this time frame five years from now and go, “man, I beat this thing”. In that case, was it worth creating a lot of fear and drama for those I care about?
 
 ---
 
@@ -45,9 +45,9 @@ I thought I’d look back at this timeframe five years from now and go, “man, 
 
 It turns out cancer isn’t something you beat, it’s something you learn to live with.
 
-My recent blood work shows my [tumor markers](https://www.cancer.org/cancer/testicular-cancer/detection-diagnosis-staging/how-diagnosed.html) are back up in the “we need to check this out” range. This week I’ll be doing more bloodwork, CT and MRI scans, and nervously Googling all the scientific studies I can find on testicular cancer.
+My recent blood work shows my [tumor markers](https://www.cancer.org/cancer/testicular-cancer/detection-diagnosis-staging/how-diagnosed.html) are back up in the “we need to check this out” range. This week I’ll be doing more blood-work, CT and MRI scans, and nervously Googling all the scientific studies I can find on testicular cancer.
 
-I believe in honesty, openness, and transparency. After a year of skipping out early for doctors appointments, being vague with my team, and wincing every time I hear the word "cancer", I've decided it's time to let people in.
+I believe in honesty, openness, and transparency. After a year of skipping out early for doctor's appointments, being vague with my team, and wincing every time I hear the word "cancer", I've decided it's time to let people in.
 
 So, please reach out to me and let’s talk about this whole “cancer” thing. Let’s chat about it a few times until you’re out of questions and a little less scared. If you scroll to the bottom of this page, you can find my social media accounts. This website even has a [contact page](/contact).
 
@@ -57,4 +57,14 @@ Yes, I have a pretty serious disease and lost one testicle, but I’m not going 
 
 Love y’all.
 
-_P.S. - A little adivce about not getting pantsed: belts are your friends._
+_P.S. - A little advice about not getting pantsed: belts are your friends._
+
+---
+
+_7/20/20 Update:_ Wow, I can't believe it's been a year since I wrote this article.
+
+Two quick notes:
+
+One, I'm doing great – no need to worry about my health 🙂
+
+Two, I wish I would have told people sooner. Going through hard things is a lot easier with the support of the people you love and care about.

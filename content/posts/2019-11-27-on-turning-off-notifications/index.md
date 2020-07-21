@@ -53,5 +53,3 @@ I thought wrong.
 Turn off your phones this holiday season and spend time with the ones you love, and don't worry about the notifications that pile up.
 
 After all, I'm reasonably sure that no one's "I'm thankful for" list contains email notifications.
-
-**Happy Thanksgiving**

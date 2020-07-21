@@ -1,8 +1,6 @@
 - name: Drew Bredvick
-  homePageBio: |
-    by Drew Bredvick, a full-stack JavaScript developer passionate about NextJS, developer velocity, and buying lots of side project domains.
   bio: |
-    I'm a full-stack IndieHacker launching products with NextJS.
+    I build products on the internet. I write about web dev, building SaaS, and notes from books and podcasts.
   avatar: ./avatars/drew.jpg
   social:
     - url: https://twitter.com/dbredvick

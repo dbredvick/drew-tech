@@ -2,27 +2,25 @@
 title: "Notes on Naval's Money"
 author: Drew Bredvick
 excerpt: >-
-  I listened to Naval Ravikant's Twitter thread turned podcast about the concept of wealth creation nearly 30 times. Here are the takeaways.
+  I listened to Naval Ravikant's Twitter thread turned podcast about the concept of wealth creation endlessly for a month. Here are my notes.
 date: "2019-09-06"
 thumb_img_path: v1579111014/blog/building-wealth-podcast-image_p6zoan
 hero: ./images/building-wealth-podcast-image.png
 template: post
 twitter_image: ./images/building-wealth-podcast-image.png
 tags: ["books-and-podcasts"]
-secret: true
+secret: false
 ---
 
 ## Who is Naval?
 
-**Naval Ravikant** is a founder and current Chairman of [AngelList](https://angel.co). I found him via a [Joe Rogan podcast](https://www.youtube.com/watch?v=3qHkcs3kG44) back in June. He has a great [Twitter account](https://twitter.com/naval) and you can read more about him at [https://nav.al/about](https://nav.al/about).
+**Naval Ravikant** is a founder and current Chairman of [AngelList](https://angel.co). I've known of him for quite some time, but the first time I watched an extended interview was on [Joe Rogan's podcast](https://www.youtube.com/watch?v=3qHkcs3kG44) back in June. He has a great [Twitter account](https://twitter.com/naval) and you can read more about him at [https://nav.al/about](https://nav.al/about).
 
 ## What is this post about?
 
-Naval posted a Twitter thread with his philosophy on wealth creation. His cofounder interviewed him about the thread, and together the clips form a nearly THREE HOUR long podcast [(link)](https://pca.st/episode/fa41637c-ef96-45a8-b942-9c88b61139a8). I love philosophy, finance, and podcasts, so this episode was like catnip for me.
+Naval posted a Twitter thread with his philosophy on wealth creation. His cofounder interviewed him about the thread, and together the clips form a nearly THREE HOUR long podcast [(link)](https://pca.st/episode/fa41637c-ef96-45a8-b942-9c88b61139a8).
 
-I listened to the episode so many times (it has to be nearly 30 at this point) I thought I would share my notes. Follow me on Twitter and share your thoughts!
-
-<a href="https://twitter.com/DBredvick?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DBredvick</a>
+I listened to the episode so many times, I thought it might be worth sharing my notes.
 
 ## On Wealth and Status
 
@@ -33,7 +31,7 @@ I listened to the episode so many times (it has to be nearly 30 at this point) I
 
 Wealth is assets that earn while you sleep. Its purpose is freedom. Wake, eat, and sleep on your own schedule.
 
-Wealth is not a zero-sum game. Standard of living has risen over time. Everyone now is better off than cavemen were. 200 years ago, no one had penicillin, iPhones, or the internet.
+Wealth is not a zero-sum game. The standard of living has risen over time. Everyone now is better off than cavemen were. 200 years ago, no one had penicillin, iPhones, or the internet.
 
 Status - who is #1, #2, #3. For there to be a winner, there has to be a loser. Status was more evolutionarily important before farming revolution.
 
@@ -53,16 +51,15 @@ Too many takers and not enough creators in a system destroys the system. Too man
 
 **How NOT to build wealth**
 
-1. Renting out your time
+#### Renting out your time
 
 - Inputs coupled with outputs
 - Your set role has competition
 - No equity in the upside potential
 
-2. Lifestyle inflation
+#### Lifestyle inflation
 
 - Your raise gets eaten by new items
-- You
 
 **How you CAN build wealth**
 
@@ -107,9 +104,9 @@ Steady creation is key. Put in the work. It helps you build assets and build a r
 
 You want to be number one, but you need to change what you&#39;re doing until you&#39;re number one. Don&#39;t pick something arbitrary.
 
-Scott Adams (creator of Dilbert) work influences this section heavily. I recently read _How to Fail at Almost Everything and Still Win Big_. I can&#39;t recommend it enough. Subscribe to my [email newsletter below](#subscribe) to get it in your inbox.
+Scott Adams (creator of Dilbert) work influences this section heavily. I recently read _How to Fail at Almost Everything and Still Win Big_. I can&#39;t recommend it enough.
 
-Since everyone is connected via the internet, find an audience that fits your natural skillset. Escape competition through authenticity.
+Since everyone is connected via the internet, find an audience that fits your natural skill set. Escape competition through authenticity.
 
 Pivot what you are working on until you are best in the world at it.
 

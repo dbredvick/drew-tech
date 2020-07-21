@@ -3,7 +3,7 @@ module.exports = {
     title: `drew.tech`,
     name: `Drew Bredvick`,
     siteUrl: `https://drew.tech`,
-    description: `Learnings from a developer who's trying to get better every day.`,
+    description: `I build products on the internet. I write about web dev, building SaaS, and notes from books and podcasts.`,
     hero: {
       heading: `Hi, I'm Drew. <br/> <br/> Let's build something together.`,
       maxWidth: 652,
