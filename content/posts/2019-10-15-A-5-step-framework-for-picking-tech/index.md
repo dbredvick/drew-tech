@@ -28,7 +28,7 @@ We're going to dive into each of these areas, but here's the TLDR (for me);
 - React for front end
 - NodeJS for APIs (deployed as serverless func)
 - Using [NextJS](https://nextjs.org) Framework
-- Hosted on [Zeit Now](https://zeit.co/home)
+- Hosted on [Vercel](https://vercel.com/home)
 - MongoDB database on [MongoDB Atlas](https://cloud.mongodb.com)
 
 ## Businesses
@@ -66,7 +66,7 @@ Being full-stack will help a lot in the early days when our resources are limite
 ## Initial Architecture
 
 Here’s my best take at diagraming architecture using Instagram stories.
-![zeit now NextJS basic architecture diagram](./images/now-nextjs-diagram.jpg)
+![vercel NextJS basic architecture diagram](./images/now-nextjs-diagram.jpg)
 
 ## Tech Decisions
 
@@ -97,7 +97,7 @@ We need a way to server-side render our React app. You can do this [without a fr
 - Caching
 - and plenty more
 
-### Zeit Now
+### Vercel
 
 If you're using NextJS and want to move quickly, Now is the only hosting answer. Now is ran by the same team that made NextJS, so there are lots of great built-in features that make hosting simple.
 

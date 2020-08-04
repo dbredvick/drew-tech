@@ -1,8 +1,8 @@
 ---
-title: "How to Send Email with Zeit.co Domain through GSuite"
+title: "How to Send Email with Vercel Domain through GSuite"
 author: Drew Bredvick
 excerpt: >-
-  Sending emails is an important part of running any business - setup your Zeit domain with GSuite (in Gmail).
+  Sending emails is an important part of running any business - setup your Vercel domain with GSuite (in Gmail).
 date: "2019-11-20"
 thumb_img_path: v1579111017/blog/Email_hbc4n0
 hero: ./images/Email.png
@@ -12,7 +12,7 @@ tags: ["side-projects", "software-exploration"]
 secret: true
 ---
 
-# Sending email with Zeit.co Domains
+# Sending email with Vercel Domains
 
 In order to send emails with a custom domain, we need to:
 
@@ -20,13 +20,13 @@ In order to send emails with a custom domain, we need to:
 2. Purchase email hosting
 3. Configure DNS records on the domain
 
-We will focus on steps two and three in this post. This post assumes you are using a domain purchased through Zeit.co and have `now` CLI access configured.
+We will focus on steps two and three in this post. This post assumes you are using a domain purchased through Vercel and have `now` CLI access configured.
 
 ### You might be asking yourself:
 
-> Why can't we just use Zeit (or other domain provider) for emails? Do I really need to pay more money?
+> Why can't we just use Vercel (or other domain provider) for emails? Do I really need to pay more money?
 
-The answer is yes, you do need to buy hosting. Namecheap actually has a [pretty good description](https://www.namecheap.com/hosting/what-is-email-hosting/) of why you need email hosting. Think of it as the same thing as website hosting, except for your emails.
+The answer is yes, you do need to buy hosting. Namecheap has a [pretty good description](https://www.namecheap.com/hosting/what-is-email-hosting/) of why you need email hosting. Think of it as the same thing as website hosting, except for your emails.
 
 ### Enter GSuite
 
@@ -44,7 +44,7 @@ In GSuite admin, go to [Manage Domains](https://admin.google.com/AdminHome?hl=en
 
 To verify you own the domain, you will need to set a TXT record on your domain's DNS settings.
 
-With Zeit's `now`, it looks like the following:
+With Vercel's `now`, it looks like the following:
 
 List out your domains
 
