@@ -9,7 +9,7 @@ hero: ./images/Email.png
 template: post
 twitter_image: ./images/Email.png
 tags: ["side-projects", "software-exploration"]
-secret: true
+secret: false
 ---
 
 # Sending email with Vercel Domains
