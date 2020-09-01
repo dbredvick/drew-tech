@@ -9,13 +9,11 @@
     force = true
 
 [[redirects]]
-  from = "https://developerspin.com"
-  to = "https://drew.tech"
-  status = 301
-  force = true
+    from = "https://developerspin.com"
+    to = "https://drew.tech"
+    force = true
 
 [[redirects]]
-  from = "https://developerspin.com/*"
-  to = "https://drew.tech/:splat"
-  status = 301
-  force = true
+    from = "https://developerspin.com/*"
+    to = "https://drew.tech/:splat"
+    force = true
