@@ -1,6 +1,6 @@
 - name: Drew Bredvick
   bio: |
-    I build products on the internet. I write about web dev, building SaaS, and books I'm reading. <a href="/about">Read more</a>.
+    I build products on the internet. I write about web dev, building SaaS, and books I'm reading. <a href="https://drew.tech/about">Read more</a>.
   avatar: ./avatars/drew.jpg
   social:
     - url: https://twitter.com/dbredvick
